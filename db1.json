@@ -1,0 +1,64 @@
+{
+  "Staff": [
+    {
+      "id": "1",
+      "name": "Sowmiya",
+      "email": "sowmiyaselvam200312@gmail.com",
+      "password": "Sibi@2003"
+    },
+    {
+      "id": "2",
+      "name": "Sibiraj D",
+      "email": "sibi7257@gmail.com",
+      "password": "Sibi@2003"
+    },
+    {
+      "id": "3",
+      "name": "sham",
+      "email": "josephsamuvel@gmail.com",
+      "password": "Sham@2002"
+    },
+    {
+      "id": "4",
+      "name": "Bharathraj",
+      "email": "bharathrajvel08@gmail.com",
+      "password": "Bharath@2003"
+    },
+    {
+      "id": "5",
+      "name": "Pradeep",
+      "email": "pradeepkumar23@gmail.com",
+      "password": "Pradeep@2003"
+    },
+    {
+      "id": "4e60",
+      "name": "sibiraj",
+      "email": "sibi7257@gmail.com",
+      "password": "Sibi@2003"
+    },
+    {
+      "id": "f9de",
+      "name": "hii",
+      "email": "hiii@gmail.com",
+      "password": "hiii"
+    },
+    {
+      "id": "1227",
+      "name": "selvam",
+      "email": "selvam@gmail.com",
+      "password": "Selvam@2003"
+    },
+    {
+      "id": "0c65",
+      "name": "Selvam selavam",
+      "email": "selvam@gmail.com",
+      "password": "selvam"
+    },
+    {
+      "id": "f9b5",
+      "name": "Selvam selavam",
+      "email": "selvam@gmail.com",
+      "password": "selvam"
+    }
+  ]
+}

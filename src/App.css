@@ -1,0 +1,41 @@
+#login{
+ background-image: url('360_F_691051962_GFhQPOAXABmf7l706q89b2PFh6FnB1kI.jpg');
+ background-size: cover;
+}
+#container{
+ 
+  margin-top: 75px;
+  margin-bottom: 75px;
+}
+body{
+  background-color: #000000;
+}
+#box{
+  background-color:rgba(111, 126, 146, 0.374);
+  
+}
+h2{
+ 
+  text-shadow: 2px 3px 5px #d4cfcf;
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+#nextdiv{
+  margin-top: 30px;
+ }
+#add{
+    margin: 20px;
+}
+#thead{
+  background-color: #0b0b0bd9;
+  color: whitesmoke;
+
+}
+h3,#h1{  
+  color: white;
+  text-shadow: 2px 2px 3px #d9d4d4;
+}
+#th{
+  border-radius: 20px;
+}
+

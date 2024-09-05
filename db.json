@@ -1,0 +1,84 @@
+{
+  "Student": [
+    {
+      "id": "1",
+      "name": "Sowmiya",
+      "lastname": "Selvakumar ",
+      "phonenumber": "8870797778",
+      "birth": "12/01/2003",
+      "gender": "female ",
+      "age": "21 ",
+      "email": "sowmiyaselvam@gmail.in"
+    },
+    {
+      "id": "2",
+      "name": "Sibi",
+      "lastname": "Dhavamani",
+      "phonenumber": "8870799890",
+      "birth": "19/02/2003",
+      "gender": "male",
+      "age": "21",
+      "email": "sibi7157@gmail.com"
+    },
+    {
+      "id": "3",
+      "name": "Bharath",
+      "lastname": "Raj",
+      "phonenumber": "1234567894",
+      "birth": "26/02/2003",
+      "gender": "male",
+      "age": "21",
+      "email": "raj@gmail.com"
+    },
+    {
+      "id": "4",
+      "name": "Pradeep",
+      "lastname": "Kumar",
+      "phonenumber": "9876543216",
+      "birth": "29/01/2003",
+      "gender": "male",
+      "age": "21",
+      "email": "bekan@gmail.com"
+    },
+    {
+      "id": "5",
+      "name": "suruthi",
+      "lastname": "M",
+      "phonenumber": "8768203342",
+      "gender": "female",
+      "birth": "28/05/2003",
+      "age": "21",
+      "email": "suruthi@gmail.com"
+    },
+    {
+      "id": "6",
+      "name": "Sham",
+      "lastname": "Ashokan",
+      "gender": "male",
+      "phonenumber": "8870799897",
+      "birth": "15//10/2003",
+      "age": "21",
+      "email": "josephsamuel@gmail.com"
+    },
+    {
+      "id": "7",
+      "name": "Arun",
+      "lastname": "S ",
+      "birth": "2003-10-02",
+      "gender": "male ",
+      "age": "21 ",
+      "phonenumber": "8877669955",
+      "email": "arunselvam@gmail.com"
+    },
+    {
+      "id": "36ca",
+      "name": "Swetha",
+      "lastname": "S",
+      "birth": "2003-09-23",
+      "gender": "Female",
+      "age": "21",
+      "phonenumber": "9013567480",
+      "email": "swetha@gmail.com"
+    }
+  ]
+}
